@@ -137,8 +137,7 @@ body {
 }
 
 #hero {
-    /* background-image: url("hero4.png"); */
-    background-image: url("img/banner/b4.jpg");
+    background-image: url("hero4.png");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -396,7 +395,7 @@ body {
 }
 
 #banner3 .banner-box3 {
-    background-image: url("hero4.png");
+    background-image: url("img/banner/b4.jpg");
 }
 
 #banner3 h2 {
